@@ -1,5 +1,5 @@
 # LowRegret-Scoring
-This project is to score IoCs based on LowRegret model. 
+This project is to score IoCs based on the LowRegret model. 
 Reference: https://github.com/JHUAPL/Low-Regret-Methodology
 ## Contributors:
 * Arwa Alomari https://github.com/malwr0a/
@@ -8,8 +8,8 @@ Reference: https://github.com/JHUAPL/Low-Regret-Methodology
 ```
 git clone https://github.com/malwr0a/LowRegret-Scoring-
 ```
-## Requiremnts 
-To use LowRegret-Scoring you should insert VirusTotal and IPVoid into secrets.json file with the following format:
+## Requirements  
+To use LowRegret-Scoring you should insert VirusTotal and IPVoid into the secrets.json file with the following format:
 ```
   {"virustotal": "YOUR_API_KEY", "void": "YOUR_API_KEY"}
 
