@@ -5,6 +5,6 @@ This project is to score IoCs based on LowRegret model. Reference: https://githu
 * Arwa Alomari https://github.com/malwr0a/
 ## Installation 
 ```
-git clone 
+git clone https://github.com/malwr0a/LowRegret-Scoring-
 ```
 ## Requiremnts 
