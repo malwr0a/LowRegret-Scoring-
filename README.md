@@ -23,5 +23,5 @@ Then, drop <IOCs_file_name>.csv file with the following format:
 | hash   | <Hash_IoC>   |
 
 The APIs can be requested on the respective service websites:
-* Virus Total (community and paid API): https://www.virustotal.com/gui/join-us
+* Virus Total: https://www.virustotal.com/gui/join-us
 * IPVoid: https://www.ipvoid.com/threat-intelligence-apis/
