@@ -15,10 +15,10 @@ Create secrets.json file with the following format:
 
 ```
 Drop <IOCs_file_name>.csv file with the following format:
-```
+
 | type   | value        |
 |--------|--------------|
 | ip     | <IP_IoC>     |
 | domain | <Domain_IoC> |
 | hash   | <Hash_IoC>   |
-```
+
