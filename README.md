@@ -1,4 +1,4 @@
-# LowRegret-Scoring-
+# LowRegret-Scoring
 This project is to score IoCs based on LowRegret model. Reference: https://github.com/JHUAPL/Low-Regret-Methodology
 ## Contributors:
 * Spenser https://github.com/sandcatintel
