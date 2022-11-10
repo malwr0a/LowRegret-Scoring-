@@ -9,9 +9,9 @@ Reference: https://github.com/JHUAPL/Low-Regret-Methodology
 git clone https://github.com/malwr0a/LowRegret-Scoring-
 ```
 ## Requiremnts 
-Create your secrets.json file with the following format:
+Create secrets.json file with the following format:
 ```
   {"virustotal": "YOUR_API_KEY", "void": "YOUR_API_KEY"}
 
 ```
-Drop your <IOCs_file_name>.csv file with the following format:
+Drop <IOCs_file_name>.csv file with the following format:
