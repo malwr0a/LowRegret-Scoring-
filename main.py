@@ -126,7 +126,6 @@ class VirusTotal:
         hashDetails = self.vt_ioc_get_details(self.hashend, hash)
         numNgn = self.vt_engine_malware(hashDetails)
         if (len(numNgn) >= 1):
-            print(hash)
             return {'hash': hash, 'score': 'LowRegret', "NumberEngFlagged": len(numNgn)}
         elif knownGoodHash(hash) == "HighRegret":
             return {'hash': hash, 'score': 'HighRegret', "NumberEngFlagged": len(numNgn)}
