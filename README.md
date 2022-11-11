@@ -1,5 +1,5 @@
 # LowRegret-Scoring
-LowRegret scoring is collection of python scripts used to score indicator of compromise based on LowRegret model that developed by John Hopkins University to respond faster to IOCs received, thus improve network defense.
+LowRegret scoring is collection of python scripts used to score indicator of compromise based on LowRegret model. The model developed by John Hopkins University to respond faster to IOCs received, thus improve network defense.
 
 Reference: https://github.com/JHUAPL/Low-Regret-Methodology
 ## Contributors
